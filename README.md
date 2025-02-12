@@ -1,2 +1,3 @@
 # fullstackjornada-spotity
-Clone do Sportify criando em NextJS assistindo a Jornada Full Stack com Diego da Hashtag Treinamentos
+
+Clone do Sportify criado com React + Vite assistindo a Jornada Full Stack com Diego da Hashtag Treinamentos

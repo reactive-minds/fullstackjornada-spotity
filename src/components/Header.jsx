@@ -1,0 +1,1 @@
+const Header = () => <h1>teste</h1>
